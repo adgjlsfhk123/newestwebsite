@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: '永信法律事務所'
+    description: '蔡維哲律師的個人網站，關注臺灣司法、司法實證研究及經濟學。'
+    twitter: 'adgjlsfhk123'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} 蔡維哲. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
