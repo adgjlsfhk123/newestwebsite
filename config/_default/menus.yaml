@@ -10,9 +10,9 @@ main:
   - name: 部落格
     url: '#posts'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
+ # - name: Projects
+ #   url: '#projects'
+ #   weight: 30
   - name: 演講與訪談
     url: '#talks'
     weight: 40
