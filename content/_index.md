@@ -77,8 +77,7 @@ sections:
           location: 臺灣臺北市
           date_start: '2020-12-02'
           date_end: ''
-          description:
-              
+          description:    
         - title: 律師
           contentcompany: 永信法律事務所
           company_url: 'http://www.linshih.com.tw'
@@ -94,12 +93,12 @@ sections:
           date_end: '2018-10-01'
           description: 
         - title: 法律顧問
-            company: 卡債受害人自救會
-            company_url: 'http://debtorstw.org/'
-            location: 臺灣臺北市
-            date_start: '2018-10-02'
-            date_end: ''
-            description:
+          company: 卡債受害人自救會
+          company_url: 'http://debtorstw.org/'
+          location: 臺灣臺北市
+          date_start: '2018-10-02'
+          date_end: ''
+          description:
         - title: 委員
           company: 臺北律師公會司法改革委員會
           company_url: ''
